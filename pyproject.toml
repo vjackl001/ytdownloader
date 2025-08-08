@@ -43,9 +43,9 @@ dev = [
 ytdownloader = "ytdownloader.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/example/ytdownloader"
-Repository = "https://github.com/example/ytdownloader.git"
-Issues = "https://github.com/example/ytdownloader/issues"
+Homepage = "https://github.com/vjackl001/ytdownloader"
+Repository = "https://github.com/vjackl001/ytdownloader.git"
+Issues = "https://github.com/vjackl001/ytdownloader/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["ytdownloader"]

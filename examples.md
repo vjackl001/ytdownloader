@@ -10,7 +10,7 @@ This file contains practical examples of using the ytdownloader CLI tool.
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone and install ytdownloader
-git clone <repository-url>
+git clone https://github.com/vjackl001/ytdownloader.git
 cd ytdownloader
 chmod +x install.sh
 ./install.sh

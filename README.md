@@ -59,7 +59,7 @@ chmod +x install.sh
 curl -LsSf https://astral.sh/uv/install.sh | sh
 
 # Clone and install
-git clone <repository-url>
+git clone https://github.com/vjackl001/ytdownloader.git
 cd ytdownloader
 uv venv
 source .venv/bin/activate
@@ -69,7 +69,7 @@ uv pip install -e .
 
 #### Using pip (Legacy method)
 ```bash
-git clone <repository-url>
+git clone https://github.com/vjackl001/ytdownloader.git
 cd ytdownloader
 pip install -e .
 ```
